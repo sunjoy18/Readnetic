@@ -6,4 +6,4 @@ In this ever-evolving digital era, Readnetic stands as a testament to the power 
 
 
 **NOTE : **
-Please upload books first before starting form : **Backend/index.html**
+Please upload books first before starting from : **Backend/index.html**
